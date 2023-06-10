@@ -1,0 +1,21 @@
+SHOES STORE
+
+--tao project
+composer create-project laravel/laravel laravel9ecommerce
+--
+composer requaire livewire/livewire
+--khởi chạy php laravel
+php artisan serve
+--tạo file trong livewire
+php artisan make:livewire HomeComponent
+php artisan make:livewire ShopComponet
+php artisan make:livewire CartComponet
+php artisan make:livewire CheckoutComponet 
+php artisan make:livewire HeaderSearchComponet
+
+TOP 1 SERVER
+
+
+{{ asset('') }}
+
+391A NAM KÌ KHỞI NGHĨA PHƯỜNG VÕ THỊ SÁU QUẬN 3 THÀNH PHỐ HỒ CHÍ MINH
